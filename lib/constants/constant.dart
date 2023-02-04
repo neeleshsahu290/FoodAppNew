@@ -1,0 +1,13 @@
+const String baseUrl = "http://103.87.173.108:8002/api/";
+const String localStorageContainer = "better_you_container";
+const String deviceToken = "device_token";
+const String authToken = "auth_token";
+const String loginStatus = "login_status";
+const String userId = "Id";
+const String userProfileData = "user_profile_data";
+const String termsAndConditions = "https://betteryou.in/terms-and-conditions/";
+const success = "success";
+const failure = "failure";
+const error = "error";
+const unauthorized = "unauthorized";
+const failureMessage = "Something went wrong, Please try again";
